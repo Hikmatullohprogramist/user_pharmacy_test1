@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "69755273051",
+    "firebase_url": "https://gopharm-9e860.firebaseio.com",
+    "project_id": "gopharm-9e860",
+    "storage_bucket": "gopharm-9e860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69755273051:android:596eec22df71d06d5aa47e",
+        "android_client_info": {
+          "package_name": "uz.go.pharm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69755273051-nhsa6u4mckne826ldehl57aedc68f9k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbpdwsdfdRmTYi-cMGRrJBMBCGRZxxm0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69755273051-nhsa6u4mckne826ldehl57aedc68f9k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

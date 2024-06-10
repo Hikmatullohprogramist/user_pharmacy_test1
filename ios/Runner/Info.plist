@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>GoPharm</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb3340881139358614</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FacebookAppID</key>
+	<string>3340881139358614</string>
+	<key>FacebookDisplayName</key>
+	<string>GoPharm</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
+	<key>FirebaseScreenReportingEnabled</key>
+	<true/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>https</string>
+		<string>http</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Play using while you are hiking</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>This app wants to access bluetooth</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>This app wants to access bluetooth</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>This app wants to access calendar.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>In the app we have used camera to scan the barcode of the products to search by barcode number.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Application wants to access your contacts list.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>In the app there is order section where user chooses his/her location for shipping information.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>In the app there is order section where user chooses his/her location for shipping information.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>In the search section of the app there is a search by voice. So, app needs microphone to allow user use the voice search. </string>
+	<key>NSMotionUsageDescription</key>
+	<string>This app wants to access motion use.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>In the search section of the app there is a search by voice. App uses speech recognition to recognize what the user searching for. Speech recognition translates the speech in to the text to search.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+</dict>
+</plist>

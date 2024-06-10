@@ -1,0 +1,19 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by apple on 28/09/2020.
+  
+*/
+
+NSAppleMusicUsageDescription = "Yurib ketayotganda ham foydalaning";
+NSCalendarsUsageDescription = "Bu ilova uchun kalendar ishlatishga ruxsat kerak.";
+NSCameraUsageDescription = "Ilovada shtrix kod raqami bilan qidirish uchun mahsulotlarning shtrix kodini skanerlash uchun kameradan foydalanildi.";
+NSContactsUsageDescription = "Ilova uchun kontaktlar ro'yxatiga ruxsat kerak.";
+NSLocationWhenInUseUsageDescription = "Ilovada buyurtmalar bo'limida yetkazib berish xizmati uchun foydalanuvchi qayerda turganligini (geolokatsiya) tanlashi kerak bo'ladi.";
+NSMicrophoneUsageDescription = "Ilovaning qidiruv bo'limida ovoz orqali qidirish uchun ilovaga mikrofondan foydalanishga ruxsat kerak.";
+NSMotionUsageDescription = "Bu ilovaga telefonning harakatlanishidan foydalanishga ruxsat kerak.";
+NSSpeechRecognitionUsageDescription = "Ilovaning qidiruv bo'limida ovoz orqali qidirish uchun ilova nutq tanib olish (speech recognition)dan foydalanadi. Bu xususiyat nutqni qidirish uchun yozuv holiga o'tkazib beradi.";
+NSBluetoothAlwaysUsageDescription = "Bu ilova uchun bluetooth ishlatishga ruxsat kerak.";
+NSBluetoothPeripheralUsageDescription = "Bu ilova uchun bluetooth ishlatishga ruxsat kerak.";
+NSLocationAlwaysUsageDescription = "Ilovada buyurtmalar bo'limida yetkazib berish xizmati uchun foydalanuvchi qayerda turganligini (geolokatsiya) tanlashi kerak bo'ladi.";

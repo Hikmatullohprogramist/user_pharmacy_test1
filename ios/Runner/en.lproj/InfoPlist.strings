@@ -1,0 +1,18 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by apple on 28/09/2020.
+  
+*/
+NSAppleMusicUsageDescription = "Play using while you are hiking";
+NSCalendarsUsageDescription = "This app wants to access calendar";
+NSCameraUsageDescription = "In the app we have used camera to scan the barcode of the products to search by barcode number.";
+NSContactsUsageDescription = "Application wants to access your contacts list.";
+NSLocationWhenInUseUsageDescription = "In the app there is order section where user chooses his/her location for shipping information.";
+NSMicrophoneUsageDescription = "In the search section of the app there is a search by voice. So, app needs microphone to allow user use the voice search.";
+NSMotionUsageDescription = "This app wants to access motion use.";
+NSSpeechRecognitionUsageDescription = "In the search section of the app there is a search by voice. App uses speech recognition to recognize what the user searching for. Speech recognition translates the speech in to the text to search.";
+NSBluetoothAlwaysUsageDescription = "This app wants to access bluetooth";
+NSBluetoothPeripheralUsageDescription = "This app wants to access bluetooth";
+NSLocationAlwaysUsageDescription = "In the app there is order section where user chooses his/her location for shipping information.";
